@@ -1,2 +1,2 @@
-This is a AI based chatbot
+This is a AI based chatbot using flask
 
