@@ -1,2 +1,2 @@
 Flask
-openai==v0.27.0
+openai
