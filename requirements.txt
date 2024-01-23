@@ -1,5 +1,2 @@
-Flask
-render_template
-jsonify
-request
-openai==0.28
+Flask==2.1.4
+openai==v0.27.0
